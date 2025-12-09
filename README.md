@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/a0d994ed-46e0-4185-886e-5568c9561843)
+
 <!--
 **jjmorningstar/jjmorningstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
