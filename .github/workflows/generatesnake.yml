@@ -17,8 +17,9 @@ jobs:
       - name: Generate the snake animation
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: output/github-contribution-grid-snake.svg
+          github_user_name: Exios66
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
       
       - name: Commit and Push the SVG
         uses: EndBug/add-and-commit@v9
